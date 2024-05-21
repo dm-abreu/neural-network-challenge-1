@@ -46,6 +46,7 @@ Comprehensive Applicant Profiles: This would include not only demographic inform
 Financial Information: Detailed financial histories, including past loans and repayment records, current income, and other financial obligations, are crucial. This information is relevant as it provides insight into the financial behavior and stability of the applicants, which is directly related to their ability to repay a loan.
 
 2. Based on the data you chose to use in this recommendation system, would your model be using collaborative filtering, content-based filtering, or context-based filtering? Justify why the data you selected would be suitable for your choice of filtering method.
+   
 For the filtering method, a hybrid approach combining content-based and collaborative filtering could be employed. This would leverage the detailed profile information of the students (content-based) while also considering the behaviors and preferences of similar users (collaborative) to make more accurate and personalized recommendations.
 
 3. Describe two real-world challenges that you would take into consideration while building a recommendation system for student loans. Explain why these challenges would be of concern for a student loan recommendation system.
